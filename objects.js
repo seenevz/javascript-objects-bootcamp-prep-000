@@ -1,4 +1,4 @@
-playlist = { artist : "song" };
+playlist = { artista : "musica" };
 
 function updatePlaylist(playlist, artistName, songTitle) {
 

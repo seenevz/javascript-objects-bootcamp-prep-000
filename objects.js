@@ -13,4 +13,4 @@ const recipe = { eggs: 3 }
 updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup')
 // returns `{ eggs: 3, chocolate: '1 cup' }`
 
-consolelog(recipe) // { eggs: 3 }
+console.log(recipe) // { eggs: 3 }
